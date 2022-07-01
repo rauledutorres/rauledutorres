@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Raúl Torres. I'm Venezuelan currently living in Spain.
+
+Right now, I'm currently learning Full Stack Web Developing with HTML, CSS, and JavaScript.
+
+I prevously worked with filmmaking and video editing at film school in Caracas and Madrid.
+
+
+
 <!--
 **rauledutorres/rauledutorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
