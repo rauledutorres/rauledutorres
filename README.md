@@ -2,7 +2,7 @@
 
 My name is Raúl Torres. I'm Venezuelan currently living in Spain.
 
-Right now, I'm currently learning Full Stack Web Developing with HTML, CSS, and JavaScript.
+Right now, I'm currently learning Full Stack Web Developing with HTML, CSS, JavaScript and PHP.
 
 I prevously worked with filmmaking and video editing at film school in Caracas and Madrid.
 
